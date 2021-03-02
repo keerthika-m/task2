@@ -1,0 +1,49 @@
+h2{
+    padding: 4px 4px;
+    color: gray;
+}
+.button2
+{
+    padding: 10px 4px;
+    color: gray;
+}
+.button3{
+
+    padding: 10px 4px;
+    color: gray;
+}
+.button4{
+    padding: 10px 4px;
+    color: gray;
+}
+.button5{
+    padding: 10px 4px;
+    color: gray;
+}
+body{
+    background-image: linear-gradient(to right,silver,white );
+}
+p7.kk{
+    margin: 10px;
+p8{
+    font-size: 30px;
+    color:gray
+}
+p9{
+    font-size: 30px;
+    color:gray
+
+}
+p10{
+    font-size: 30px;
+    color:gray
+}
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: gray;
+    margin: 20px;
+}
+p11{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: gray;
+}
